@@ -1,0 +1,14 @@
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\bin\Debug\net6.0\Ex05.exe
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\bin\Debug\net6.0\Ex05.deps.json
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\bin\Debug\net6.0\Ex05.runtimeconfig.json
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\bin\Debug\net6.0\Ex05.dll
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\bin\Debug\net6.0\Ex05.pdb
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\Ex05.AssemblyInfoInputs.cache
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\Ex05.AssemblyInfo.cs
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\Ex05.csproj.CoreCompileInputs.cache
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\Ex05.dll
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\refint\Ex05.dll
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\Ex05.pdb
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\Ex05.genruntimeconfig.cache
+D:\WORK\Year3\OS\Synchronization Part II\Ex05\Ex05\obj\Debug\net6.0\ref\Ex05.dll

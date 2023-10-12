@@ -1,0 +1,14 @@
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\bin\Debug\net6.0\Ex04.exe
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\bin\Debug\net6.0\Ex04.deps.json
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\bin\Debug\net6.0\Ex04.runtimeconfig.json
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\bin\Debug\net6.0\Ex04.dll
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\bin\Debug\net6.0\Ex04.pdb
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfoInputs.cache
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfo.cs
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\Ex04.csproj.CoreCompileInputs.cache
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\Ex04.dll
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\refint\Ex04.dll
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\Ex04.pdb
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\Ex04.genruntimeconfig.cache
+D:\WORK\Year3\OS\Synchronization Part II\Ex04\Ex04\obj\Debug\net6.0\ref\Ex04.dll
